@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SCPSC/static/css/main.890045dd.css",
-    "main.js": "/SCPSC/static/js/main.0cb7127d.js",
+    "main.js": "/SCPSC/static/js/main.13010ea4.js",
     "static/js/787.9778fbac.chunk.js": "/SCPSC/static/js/787.9778fbac.chunk.js",
     "static/media/heavyIndustry.jpg": "/SCPSC/static/media/heavyIndustry.dc840260ded1334a7787.jpg",
     "static/media/carousel8.jpeg": "/SCPSC/static/media/carousel8.389c368a0d5fa40ee567.jpeg",
@@ -21,11 +21,11 @@
     "static/media/brand5.png": "/SCPSC/static/media/brand5.44c8e2053029c95d4cf7.png",
     "index.html": "/SCPSC/index.html",
     "main.890045dd.css.map": "/SCPSC/static/css/main.890045dd.css.map",
-    "main.0cb7127d.js.map": "/SCPSC/static/js/main.0cb7127d.js.map",
+    "main.13010ea4.js.map": "/SCPSC/static/js/main.13010ea4.js.map",
     "787.9778fbac.chunk.js.map": "/SCPSC/static/js/787.9778fbac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.890045dd.css",
-    "static/js/main.0cb7127d.js"
+    "static/js/main.13010ea4.js"
   ]
 }
